@@ -258,6 +258,9 @@ function test_input($data) {
 }
 ?>
 
+  
+  <h1> TESTING DEV PROMOTIONSSSSSSSSS</h1>
+  <p><p><p>
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
    Name:<br> <input type="text" name="name" value="<?php echo $name;?>">
    <span class="error">* <?php echo $nameErr;?></span>
